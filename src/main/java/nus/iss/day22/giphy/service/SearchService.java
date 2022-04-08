@@ -21,7 +21,7 @@ import jakarta.json.JsonReader;
 @Service
 public class SearchService {
 
-    // set GIPHY_API_KEY=
+    // set GIPHY_API_KEY=RJxm4Esx0FZfZrAHK1IwCwSPgecDll73
     @Value("${giphy.api.key}")
     private String apiKey;
 
